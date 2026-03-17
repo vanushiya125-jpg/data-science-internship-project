@@ -185,18 +185,4 @@ print("Unemployment trends show variation over time.")
 print("COVID period had significant impact.")
 print("Data visualization helps understand patterns clearly.")
 
-# ------------------------------------------------------------
-# EXTRA COMMENT BLOCK (FOR LINE COUNT)
-# ------------------------------------------------------------
-# Unemployment is a key economic indicator.
-# Higher unemployment indicates economic slowdown.
-# Data analysis helps policymakers take decisions.
-# Visualization makes data easy to understand.
-# Python libraries like pandas simplify analysis.
-# Matplotlib is useful for plotting graphs.
-# Time series data shows trends over time.
-# COVID-19 affected global employment rates.
-# Governments introduced policies to reduce unemployment.
-# Data-driven insights are important in economics.
 
-# (👉 Add 100–150 similar comment lines to reach 400 lines)
