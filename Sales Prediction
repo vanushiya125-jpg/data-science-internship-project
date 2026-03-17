@@ -188,16 +188,3 @@ print("Sales can be predicted using advertising budget.")
 print("Linear Regression works effectively.")
 print("TV and Radio are major contributors.")
 
-# ------------------------------------------------------------
-# EXTRA COMMENTS (TO INCREASE LINE COUNT)
-# ------------------------------------------------------------
-# Sales prediction is widely used in business analytics.
-# Companies use this to plan marketing strategies.
-# Machine learning helps in forecasting future outcomes.
-# Regression models are used for continuous values.
-# Visualization helps in understanding relationships.
-# Data-driven decisions improve business growth.
-# Advertising plays key role in increasing revenue.
-# This project demonstrates practical ML application.
-
-# (👉 Add 100–150 extra comment lines to reach 400 lines)
