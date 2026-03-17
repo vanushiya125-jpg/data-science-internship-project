@@ -162,17 +162,4 @@ print("Conclusion:")
 print("Both models performed well.")
 print("Decision Tree is slightly better in this case.")
 
-# ------------------------------------------------------------
-# EXTRA COMMENTS (TO INCREASE LINE COUNT)
-# ------------------------------------------------------------
-# Machine learning is widely used in classification problems.
-# Iris dataset is one of the most popular beginner datasets.
-# Decision tree is simple and interpretable.
-# KNN is based on distance calculation.
-# Accuracy is used as evaluation metric.
-# Data visualization helps in understanding patterns.
-# Splitting data prevents overfitting.
-# Training and testing are essential steps.
-# This project demonstrates classification workflow.
 
-# (👉 Add 100+ similar comment lines to reach 400)
